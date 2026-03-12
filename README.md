@@ -44,7 +44,7 @@ Intento 5:  V E R D E  →  🟩🟩🟩🟩🟩  ¡GANASTE!
 
 ### Paso 1: Extraer los Archivos
 
-1. Si recibiste un ZIP, **extrae el contenido** en una carpeta
+1. Si descargaste el ZIP, **extrae el contenido** en una carpeta
 2. La carpeta debe contener:
    ```
    wordle-para-compartir/
@@ -85,6 +85,7 @@ Intento 5:  V E R D E  →  🟩🟩🟩🟩🟩  ¡GANASTE!
 En PowerShell, escribe:
 
 ```powershell
+Entrar a la ruta de la carpeta con cd /ruta/a/la/carpeta
 .\start.ps1
 ```
 
@@ -180,4 +181,4 @@ Después de cada partida, puedes ver:
 
 ---
 
-*Hecho con ❤️ usando Docker, FastAPI y PostgreSQL*
+
